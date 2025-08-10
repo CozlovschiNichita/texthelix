@@ -15,7 +15,7 @@
 
 ## Демо-видео
 
-[![Смотреть демо-видео](./media/spiral.mp4)
+[![Смотреть демо-видео](./media/helix.png)](./media/spiral.mp4)
 ---
 
 2025, [мой GitHub профайл](https://github.com/CozlovschiNichita)
