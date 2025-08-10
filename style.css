@@ -1,0 +1,31 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #040509;
+  overflow: hidden;
+  font-size: 62.5%;
+}
+
+.spiral {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+  color: #e0ecef;
+  font-family: sans-serif;
+}
+
+.character {
+  font-size: 2.8rem;
+  color: white;
+  text-transform: uppercase;
+}
+
+@media (max-width: 490px) {
+  .character {
+    font-size: 2.2rem;
+  }
+}
